@@ -1,0 +1,90 @@
+body {
+	background-image:url('lib/tiles.jpg');
+}
+
+#main {
+	width: 80%;
+	position: fixed;
+	right: 0px;
+	padding: 20px;
+	margin: 20px;
+}
+
+#main p {
+	padding-top: 10px;
+	font-family: fantasy;
+	font-size: 30px;
+	color: white;
+	background-color: purple;
+
+}
+#head {
+	width: 72%;
+	margin-left: auto;
+	margin-right: auto;
+	font-family: fantasy;
+
+}
+
+#head h1 {
+	color: black;
+	font-size: 50px;
+	background-color: yellow;
+	text-align: center;
+	
+}
+
+#scroll {
+color: purple;
+font-family: monospace;
+font-size: 20px;	
+}
+
+#sidebar {
+	width: 15%;
+	position: fixed;
+	left: 0px;
+	overflow-y: scroll;
+	font-family: fantasy;
+	color: white;
+/* 	background-color: yellow; */
+	
+}
+
+#sidebar h1 {
+	text-align: center;
+}
+
+#sidebar ul {
+	margin-left: 0px;
+	list-style-image:url('lib/7up.gif');
+}
+
+#sidebar a {
+	color: white;
+	background-color: red;
+}
+
+#footer {
+	width: 600px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+#banner {
+	width: 100%;
+}
+
+#construction h1 {
+	font-family: fantasy;
+	color: white;
+	text-align: center;
+	font-size: 50px;
+	background-color: red;
+	padding: 15px;
+}
+#constructiondude {
+	width: 100%;
+
+}
